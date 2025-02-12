@@ -23,6 +23,8 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
+      <!-- https://shahzadumar-w.github.io/OutlookAddin_AttachmentSorter/taskpane.html -->
+      <!-- https://shahzadumar-w.github.io/OutlookAddin_AttachmentSorter/ -->
         <SourceLocation DefaultValue="https://shahzadumar-w.github.io/OutlookAddin_AttachmentSorter/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
